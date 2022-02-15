@@ -26,5 +26,5 @@ struct APISecret {
 Change the [YOUR_API_KEY] with your actual key.
 ## Screenshots
 
-![App Screenshot](https://viktormauzer.github.io/img/open-weather/clear.png)
-![App Screenshot](https://viktormauzer.github.io/img/open-weather/clouds.png)
+![App Screenshot](https://viktormauzer.github.io/img/open-weather/screenshots-github.jpg)
+
